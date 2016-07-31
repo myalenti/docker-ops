@@ -1,4 +1,5 @@
-#Dockerizing MongoDB attempt
+#Dockerizing MongoDB Ops Manager attempt
+#Requires a mongod container to interact with
 #Based on Centos
 
 #FROM centos:latest
